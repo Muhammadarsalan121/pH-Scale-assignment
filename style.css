@@ -1,0 +1,91 @@
+body{
+    background-color: #dcdcdc;
+    width: 100%;
+ }
+ #head-two{
+    background-color: #ffffff;
+    font-size: xx-large;
+    color: #6c6c6c;
+    
+    
+  }
+  .sky-blue{
+     background-color: #2a84c5;
+     color: #ffffff;
+     margin: 0px;
+     }
+     .sky-blue02{
+       background-color: #2990d9;
+       margin: 0px;
+       color: #ffffff;
+     }
+     .sky-blue03{
+       margin: 0px;
+       color: #ffffff;
+       background-color: #35a4f4;
+ 
+     }
+     .sky-blue04{
+       margin: 0px;
+       color: #ffffff;
+       background-color: #33acfd;
+ 
+     }
+     .sky-blue05{
+       margin: 0px;
+       color: #ffffff;
+       background-color: #48b8fd;
+ 
+     }
+     .sky-blue06{
+       margin: 0px;
+       color: #ffffff;
+       background-color: #67bdfe;
+ 
+     }
+     .sky-blue07{
+       margin: 0px;
+       color: #ffffff;
+       background-color: #8ECAFE;
+    }
+    .green{
+       margin: 0px;
+       color: #ffffff;
+       background-color: #1b7b1b;
+    }
+    .pink01{
+       margin: 0px;
+       color: #ffffff;
+       background-color: #fdb6d2f7;
+    }
+    .pink02{
+       margin: 0px;
+       color: #ffffff;
+       background-color: #ffa7ca;
+    }
+    .pink03{
+       margin: 0px;
+       color: #ffffff;
+       background-color: #ff93be;
+    }
+    .pink04{
+       margin: 0px;
+       color: #ffffff;
+       background-color: #ff7fb2;
+    }
+    .pink05{
+       margin: 0px;
+       color: #ffffff;
+       background-color: #f86ba4;
+    } 
+    
+    .pink06{
+       margin: 0px;
+       color: #ffffff;
+       background-color:#f15694ef;
+    }
+    .pink07{
+       margin: 0px;
+       color: #ffffff;
+       background-color: #e3528c;
+    }
